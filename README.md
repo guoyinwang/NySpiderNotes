@@ -172,6 +172,7 @@ def cut_image(image):
 
 ######4.处理获取到的验证码，得到数据集
 将获取到的验证码分割，保存，将分割后的数字图片分类
+
 ![image](http://7xsjsi.com2.z0.glb.clouddn.com/2016-04-08.png)
 
 ######用 Python 类实现向量空间：
